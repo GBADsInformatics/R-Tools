@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Rtools
+# R Tools
 R tools to access, use, and visualize data
 
 # Provide more indepth information as we populate the repo here 
