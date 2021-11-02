@@ -7,13 +7,16 @@ R tools to access, use, and visualize data
 ## GBADsAPI.R 
 
 *Description* 
+
 R code to access GBADs Public API. Currently supported - livestock population numbers from OIE and FAOSTAT QCL dataset 
 
 *Dependencies* 
+
 library(RCurl)
 library(httr)
 
 *Functions* 
+
 1. `get_all_tables`
 * Lists all available tables in the API 
 
