@@ -19,6 +19,8 @@ print_table <- function(){
  var <- paste("SELECT * FROM ", var)
  table <- dbGetQuery(con, var)
 
+ dbDisconnect(con)
+
  return(table)
 
 }
