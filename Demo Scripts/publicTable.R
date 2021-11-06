@@ -54,5 +54,5 @@ publicTable <- function(){
     dbDisconnect(con)
 }
 #
-#   End of dumpETH_CSAtables.R
+#   End of publicTable.R
 #

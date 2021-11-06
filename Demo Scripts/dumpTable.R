@@ -35,5 +35,5 @@ dumpTable <- function(table_name){
     dbDisconnect(con)
 }
 #
-#   End of dumpETH_CSAtables.R
+#   End of dumpTable.R
 #
